@@ -76,6 +76,19 @@ people’s varying perspectives. They also discern differences in individual sty
   3. Identifies opportunities for global leverage (for example, opportunities to develop R&D strategy from a global point of view).
 
 #### CHANGE DRIVER—Creates an environment that embraces change; makes change happen—even if the change is radical— and helps others to accept new ideas.
+Change Drivers focus on continuous improvement. Always challenging the status quo and breaking paradigms, they identify ideas for change and become the force driving the change home.
+
+  <b>Illustrations</b>
+  1. Sees the possibility for change. 
+  2. Recognizes the need for change before it becomes critical. 
+  3. Sells ideas for change.
+  4. Funds and supports the implementation of change and rewards behavior that supports change.
 
 #### ENTERPRISE GUARDIAN—Ensures shareholder value through courageous decision-making that supportsenterprise—or unit-wide interests.
+
+  <b>Illustrations</b>
+  1. Refuses to trade long-term for short-term gain.
+  2. Possesses the courage to make difficult decisions in times of success.
+  3. Objectively upholds the interest of the enterprise by putting aside emotions and personal relationships.
+  4. Takes responsibility for unpopular decisions and their aftermath.
 
