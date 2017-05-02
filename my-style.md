@@ -29,22 +29,50 @@ drive the organization toward its vision.
   6. Links the organization’s vision and values to the business strategy.
 
 - ENTREPRENEUR—Identifies and exploits opportunities for new products, services,and markets.
-Entrepreneurs are always alert for creative, novel ideas. They might generate the ideas themselves or take existing opportunities or
-proposals down a new path. Entrepreneurs are able to look at events from a unique perspective and develop ideas that have
-never been thought of.
+Entrepreneurs are always alert for creative, novel ideas. They might generate the ideas themselves or take existing opportunities or proposals down a new path. Entrepreneurs are able to look at events from a unique perspective and develop ideas that have never been thought of.
+  <b>Illustrations</b>
   1. Takes calculated risks to capitalize on emerging trends.
   2. Looks beyond the boundaries of the organization for new growth opportunities (partnerships, new technologies,applications).
   3. Turns threats (from competitors, govern-ment policies, and new technologies) into business opportunities.
 
-- MOBILIZER—Proactively builds andaligns stakeholders, capabilities, and resources for getting things done quickly and achieving complex objectives.
+- MOBILIZER—Proactively builds and aligns stakeholders, capabilities, and resources for getting things done quickly and achieving complex objectives.
+Mobilizers gain the support and resourcesthey need to accomplish goals.
+  <b>Illustrations</b>
+  1. Leverages and integrates the capabilities of resources across all levels of the organization to accomplish complex,multiple-level objectives.
+  2. Anticipates and diffuses roadblocks to desired goals.
+  3. Uses necessary and appropriate lobbying techniques to gain support for actions from decision-makers
+  4. Utilizes creative networking approaches to identify contacts who can help in attaining goals.
+  5. Develops alternative/contingency plans.
+  6. Empowers others relative to achieving the strategy
 
-- TALENT ADVOCATE—Attracts, develops,and retains talent to ensure that people with the right skills and motivations to meet business needs are in the right place
-at the right time.
+- TALENT ADVOCATE—Attracts, develops,and retains talent to ensure that people with the right skills and motivations to meet business needs are in the right place at the right time.
+Talent Advocates ensure that the organization has people with potential to meetpresent and future organizational needs.Talent Advocates are less concerned with filling specific positions than with attracting and retaining talented individuals.
+  <b>Illustrations</b>
+  1. Relentlessly identifies and secures high-potential talent.
+  2. Identifies the best people (internal and external), gets to know them, and stays in touch with them.
+  3. Links development assignments to current and future needs of the organization (as determined by the business strategies).
+  4. Increases readiness of high-potential talent by providing developmental opportunities.
+  5. Minimizes barriers to achievement; maximizes the individual’s likelihood for success.
+  6. Builds and facilitates a culture that embraces development.
+  7. Promotes employee retention by analyzing and understanding its drivers.
 
 - CAPTIVATOR—Builds passion and commitment toward a common goal.
+Captivators build upon an established foundation of trust to instill people with feelings of excitement and belonging. Captivators transfer the energy of their message in such a compelling way that people take ownership of the strategy or vision and are empowered to carry it out.
+  <b>Illustrations</b>
+  1. Conveys a simple, vivid picture of the organization’s vision and goals.
+  2. Moves people from compliance to commitment.
+  3. Instills others with a strong sense of belonging (they understand how they will benefit).
+  4. Generates energy and enthusiasm through personal passion and conviction.
+  5. Keeps the message alive and ongoing.
 
-- GLOBAL THINKER—Integrates information from all sources to develop a well-informed, diverse perspective that can be used to optimize organizational
-performance.
+- GLOBAL THINKER—Integrates information from all sources to develop a well-informed, diverse perspective that can be used to optimize organizational performance.
+Global Thinkers understand and accept international and cultural differences and behave in a way that accommodates
+people’s varying perspectives. They also discern differences in individual styles and adapt their approaches accordingly.
+  <b>Illustrations</b>
+  1. Considers the implications of issues,decisions, and opportunities beyond the boundaries of own country/culture.
+  2. Understands the different perspectives and approaches in order to effectively handle cross-cultural challenges/individ ual differences.
+  3. Identifies opportunities for global leverage (for example, opportunities to develop R&D strategy from a global point of view).
+
 
 - CHANGE DRIVER—Creates an environment that embraces change; makes change happen—even if the change is radical— and helps others to accept new ideas.
 
