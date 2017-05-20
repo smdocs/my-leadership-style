@@ -1,4 +1,4 @@
-# Engineering Management Lessons
+# Engineering Management Notes
 
 ### People
 1. Attract, nurture, coach, and retain talent. Talk to engineers to tease out concerns early, then fix them if you can.
@@ -43,3 +43,11 @@
 5. When disagreement gets personal or people don’t accept well-reasoned decisions, it turns into conflict.
 6. Most conflict happens because people don’t feel heard. Sit down with each person and ask them how they feel. Listen carefully. Then ask again. And again. Then summarize what they said back to them. Most of the time that will solve the problem.
 7. If the conflict persists after you’ve gone to reasonable lengths to hear everyone out and fix problems, it’s time for a difficult conversation.
+
+### Difficult conversations
+
+1. Have difficult conversations as soon as possible. Waiting will only make a bad situation worse.
+2. Never assume or jump to conclusions. Never demonize people in your mind. Never blame, yell or vilify.
+3. Use non-violent communication — it’s the best method I know of to critique people’s behavior without offending them. It smells like a management fad, but it really works (I promise).
+4. Have the courage to state how you feel and what you need. People are drawn to each other’s vulnerability but repelled by their own. Vulnerability isn’t weakness.
+5. Expect people to extend you the same courtesy. If someone makes you feel bad for stating your needs and feelings, it tells you more about them than about yourself.
