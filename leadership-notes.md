@@ -51,3 +51,14 @@
 3. Use non-violent communication — it’s the best method I know of to critique people’s behavior without offending them. It smells like a management fad, but it really works (I promise).
 4. Have the courage to state how you feel and what you need. People are drawn to each other’s vulnerability but repelled by their own. Vulnerability isn’t weakness.
 5. Expect people to extend you the same courtesy. If someone makes you feel bad for stating your needs and feelings, it tells you more about them than about yourself.
+
+### Other rough edges
+
+1. People will push and prod to discover your boundaries. Knowing when to stand back and when to stand firm is half the battle.
+2. Occasionally someone will push too far. When they do, you have to show a rough edge or you’ll lose authority with your team.
+3. A firm “I’m not ok with that” is usually enough.
+4. Don’t laugh things off if you don’t feel like laughing them off. Have the courage to show your true emotions.
+5. If you have to firmly say “I’m not ok with that” too many times to the same person, it’s your job to fire them.
+6. Unless you’re a sociopath, firing people is so hard you’ll invent excuses not to do it. If you’re consistently wondering if someone’s a good fit for too long, have the courage to do what you know is right.
+7. Don’t let people pressure you into decisions you don’t believe in. They’ll hold you responsible for them later, and they’ll be right. Decisions are your responsibility.
+8. Believe in yourself. You can’t lead a cavalry charge if you think you look funny on a horse.
