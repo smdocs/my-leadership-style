@@ -62,3 +62,5 @@
 6. Unless you’re a sociopath, firing people is so hard you’ll invent excuses not to do it. If you’re consistently wondering if someone’s a good fit for too long, have the courage to do what you know is right.
 7. Don’t let people pressure you into decisions you don’t believe in. They’ll hold you responsible for them later, and they’ll be right. Decisions are your responsibility.
 8. Believe in yourself. You can’t lead a cavalry charge if you think you look funny on a horse.
+
+[](http://www.defmacro.org/2014/10/03/engman.html)
